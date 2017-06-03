@@ -1,4 +1,10 @@
 
+<<<<<<< HEAD
+=======
+
+
+//Sudarshan Parthasarathy 106116095
+>>>>>>> sort
 //favourite sorting algorithm - selection sort-in ascending order
 #include<iostream>
 using namespace std;
